@@ -1,0 +1,6 @@
+local Controller = require(script.Controller)
+local Model = script.Parent
+
+local WaypointLibrary = -- Set to whatever the waypoints will be
+
+Controller.new(Model, WaypointLibrary)
