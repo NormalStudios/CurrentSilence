@@ -8,5 +8,7 @@ The client modules that do not require startup are located in ReplicatedStorage.
 
 Items, LightingModule, SoundModule, Voicelines
 
-Current RemoteEvents that are located in ReplicatedStorage.RemoteEvents:
+To Do:
+Preselect giveaways don't show that they are pre-selected
+Python tool that automatically keeps doing giveaways
 
