@@ -9,6 +9,11 @@ The client modules that do not require startup are located in ReplicatedStorage.
 Items, LightingModule, SoundModule, Voicelines
 
 To Do:
+
 Preselect giveaways don't show that they are pre-selected
 Python tool that automatically keeps doing giveaways
+Scraps bot can verify you through roblox
+Scraps bot can do giveaways if you join the Normal Studios group
+Python bot that goes in type soul spamming the discord server
+**HOW CAN ROBLOX RUN UNDER VIRTUALIZATION**
 
