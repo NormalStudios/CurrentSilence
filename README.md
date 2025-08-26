@@ -17,3 +17,4 @@ Scraps bot can do giveaways if you join the Normal Studios group
 Python bot that goes in type soul spamming the discord server
 **HOW CAN ROBLOX RUN UNDER VIRTUALIZATION**
 
+<img width="1078" height="872" alt="image" src="https://github.com/user-attachments/assets/5963af59-1566-4bd6-b211-d97d24e9883f" />
